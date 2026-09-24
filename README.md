@@ -1,6 +1,6 @@
 # Registro de Eventos Climáticos Extremos Back-end
 
-Exemplo simples de back-end para registrar eventos climáticos extremos, como ondas de calor, tempestades, secas e enchentes, utilizando dados JSON e funcionalidades CRUD padrão.
+Exemplo de back-end para registrar eventos climáticos extremos, como ondas de calor, tempestades, secas e enchentes, utilizando dados JSON e funcionalidades CRUD padrão.
 
 ---
 
@@ -65,9 +65,11 @@ npm run dev
 
 ## Cliente
 
-- ![Formulário](./prints/08-formulario.png)
+- ![Formulário](formulario.png)
 
 - Resposta:
+- ![Resposta](envio.png)
+
 
 O formulário permite cadastrar um novo evento climático por meio da rota POST /eventos.
 
